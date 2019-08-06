@@ -29,3 +29,7 @@ Faça a configuração da fonte para que os simbolos se unam!
     Deixe as suas preferencias assim!
 
 Agora é só começar a programação!
+
+
+Use mongoDB Atlas como banco de dados, para saber o que está no seu banco de dados, use mongoDB Compass Comunnity.
+Para fazer tests de requisições use o Insomnia.
