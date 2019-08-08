@@ -33,3 +33,9 @@ Agora é só começar a programação!
 
 Use mongoDB Atlas como banco de dados, para saber o que está no seu banco de dados, use mongoDB Compass Comunnity.
 Para fazer tests de requisições use o Insomnia.
+
+Para começar o front-end é importante que rode os seguintes comandos no terminal, para que tenha a base do projeto!
+yarn create react-app nomedapasta
+Entre na pasta que crio acima e de um: yarn start
+
+Para planejar o design de suas aplicações use o Adobe XD: https://www.adobe.com/br/products/xd.html

@@ -13,4 +13,4 @@ server.use(cors());
 server.use(express.json());
 server.use(routes);
 
-server.listen(3300);
+server.listen(3001);
