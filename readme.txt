@@ -39,3 +39,7 @@ yarn create react-app nomedapasta
 Entre na pasta que crio acima e de um: yarn start
 
 Para planejar o design de suas aplicações use o Adobe XD: https://www.adobe.com/br/products/xd.html
+
+Link importante para docs de ajuda da rocketseat https://docs.rocketseat.dev/
+
+Qualquer dúvida ou queira saber os componentes do react-native, pode estar entrando nos docs próprio dele: https://facebook.github.io/react-native/docs/getting-started
